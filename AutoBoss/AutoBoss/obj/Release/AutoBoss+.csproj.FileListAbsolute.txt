@@ -2,7 +2,6 @@ C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\AutoBoss.dll\AutoBoss\Auto
 C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\AutoBoss.dll\AutoBoss\AutoBoss\bin\AutoBoss+.pdb
 C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\AutoBoss.dll\AutoBoss\AutoBoss\bin\AutoBoss+.dll.CodeAnalysisLog.xml
 C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\AutoBoss.dll\AutoBoss\AutoBoss\bin\AutoBoss+.dll.lastcodeanalysissucceeded
-C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\AutoBoss.dll\AutoBoss\AutoBoss\obj\Release\AutoBoss+.csprojAssemblyReference.cache
 C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\AutoBoss.dll\AutoBoss\AutoBoss\obj\Release\AutoBoss+.csproj.CoreCompileInputs.cache
 C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\AutoBoss.dll\AutoBoss\AutoBoss\obj\Release\AutoBoss+.dll
 C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\AutoBoss.dll\AutoBoss\AutoBoss\obj\Release\AutoBoss+.pdb

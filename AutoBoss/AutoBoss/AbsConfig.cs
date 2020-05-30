@@ -19,40 +19,40 @@ namespace AutoBoss
 
 		public string[] DayTimerText =
 		{
-			"[Day] Initial message",
-			"[Day] Secondary message",
-			"[Day] Third message",
-			"[Day] Etc",
-			"[Day] Bosses spawning"
+			"[Day] Primeira mensagem",
+			"[Day] Segunda mensagem",
+			"[Day] Terceira mensagem",
+			"[Day] Quarta mensagem",
+			"[Day] Boss invocados"
 		};
 
-		public string DayTimerFinished = "Boss battle complete.";
+		public string DayTimerFinished = "Batalha completa.";
 
 		public bool EnableNightTimerText;
 
 		public string[] NightTimerText =
 		{
-			"[Night] Initial message",
-			"[Night] Secondary message",
-			"[Night] Third message",
-			"[Night] Etc",
-			"[Night] Bosses spawning"
+			"[Night] Primeira mensagem",
+			"[Night] Segunda mensagem",
+			"[Night] Terceira mensagem",
+			"[Night] Quarta mensagem",
+			"[Night] Boss invocados"
 		};
 
-		public string NightTimerFinished = "Boss battle complete.";
+		public string NightTimerFinished = "Batalha completa.";
 
 		public bool EnableSpecialTimerText;
 
 		public string[] SpecialTimerText =
 		{
-			"[Special] Initial message",
-			"[Special] Secondary message",
-			"[Special] Third message",
-			"[Special] Etc",
-			"[Special] Bosses spawning"
+			"[Special] Primeira mensagem",
+			"[Special] Segunda mensagem",
+			"[Special] Terceira mensagem",
+			"[Special] Quarta mensagem",
+			"[Special] Boss invocados"
 		};
 
-		public string SpecialTimerFinished = "Boss battle complete.";
+		public string SpecialTimerFinished = "Batalha completa.";
 
 		public bool AnnounceMinions;
 		public int[] MinionsSpawnTimer = {10, 30};

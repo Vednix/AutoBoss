@@ -126,7 +126,7 @@ namespace AutoBoss
 
 			if (!AutoBoss.Tools.bossesToggled)
 			{
-				TShock.Log.ConsoleInfo("[AutoBoss+] Timer Disabled: Boss toggle disabled");
+				TShock.Log.ConsoleInfo("[AutoBoss+] Contador Parado: AutoBoss+ desativado");
 				_bossTimer.Enabled = false;
 				_ticker.count = -1;
 				return;

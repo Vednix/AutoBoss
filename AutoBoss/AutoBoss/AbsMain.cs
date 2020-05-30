@@ -107,7 +107,7 @@ namespace AutoBoss
 					Tools.bossesToggled = true;
 					Timers.StartBosses(day, night, special, true);
 
-					TShock.Log.ConsoleInfo("[AutoBoss+] Timer started: Autostart");
+					TShock.Log.ConsoleInfo("[AutoBoss+] Contador Iniciado: Autostart");
 				}
 			}
 		}
@@ -164,7 +164,7 @@ namespace AutoBoss
 				bossCounts.Clear();
 				Timers.Stop();
 
-				TShock.Log.ConsoleInfo("[AutoBoss+] Timer Disabled: No players are online");
+				TShock.Log.ConsoleInfo("[AutoBoss+] Contador Parado: Nenhum jogador está online");
 			}
 		}
 

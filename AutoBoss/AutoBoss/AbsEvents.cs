@@ -63,7 +63,7 @@ namespace AutoBoss
 				AutoBoss.bossCounts.Select(kvp => string.Format("{0}x {1}", kvp.Value*AutoBoss.ActiveArenas.Count,
 					kvp.Key)).ToList();
 
-            TShock.Utils.Broadcast("Bosses selected: " + string.Join(", ", broadcast), Color.LightBlue);
+            TShock.Utils.Broadcast("Chefes Selecionados: " + string.Join(", ", broadcast), Color.LightBlue);
 
 			if (AutoBoss.config.MinionToggles[type])
 			{
@@ -104,7 +104,7 @@ namespace AutoBoss
 				minionCounts.Select(kvp => string.Format("{0}x {1}", kvp.Value*AutoBoss.ActiveArenas.Count,
 					kvp.Key)).ToList();
 
-			TShock.Utils.Broadcast("Minions selected: " + string.Join(", ", broadcast), Color.LightBlue);
+			TShock.Utils.Broadcast("Minions Selecionados: " + string.Join(", ", broadcast), Color.LightBlue);
 		}
 
 
